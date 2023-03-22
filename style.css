@@ -1,0 +1,61 @@
+.container{
+    text-align: center;
+}
+#full{
+    background-color: #2B3A55;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.head1{
+    font-family: 'Secular One', sans-serif;
+    color: #C0EEE4;
+    font-size: 7rem;
+}
+button{
+    width: 40%;
+}
+p{
+    font-family: 'Secular One', sans-serif;
+    color: #C0EEE4;
+    font-size: 1.5rem;
+}
+
+.head2{
+    
+    font-family: 'Secular One', sans-serif;
+    color: #C0EEE4;
+    text-align: center;
+    font-size: 3.5rem;
+    margin-bottom: 3%;
+}
+.cardtext{
+    font-family: 'Times New Roman', Times, serif;
+    color: #C0EEE4;
+    text-align: center;
+    font-size: large;
+}
+#btm{
+    background-color: #BFEAF5;
+   padding: 0;
+   padding-bottom: 2px;
+
+}
+
+@media screen and (max-width: 1028px){
+
+    .head1{
+        font-size: 4rem;
+    }
+    img{
+        height: 150px;
+        width: 150px;
+    }
+    .head2{
+        padding-top: 5%;
+        margin-bottom: 22%;
+        font-size: 5rem;
+    }
+    #cont2{
+        margin-top: 5%;
+    }
+}
